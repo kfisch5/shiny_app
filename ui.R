@@ -31,30 +31,9 @@ shinyUI(
       textOutput("oid4"),
       h4("Question 3:"),
       textOutput("oid5"),
-      textOutput("oid6"),
-      
-      showOutput("chart1", 'polycharts')
+      textOutput("oid6")
     )
-    
-    
-    
-    
+
     )
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
 )
